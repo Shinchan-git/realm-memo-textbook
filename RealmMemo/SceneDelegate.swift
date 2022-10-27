@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  RealmNote
+//  RealmMemo
 //
 //  Created by Owner on 2022/10/26.
 //
